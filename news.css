@@ -1,0 +1,40 @@
+.news-content .section-news h2 {
+    color: white;
+    padding: 10px;
+}
+
+.news-content .section-news li {
+    padding: 10px;
+}
+
+.news-content .section-news li:hover a {
+    color: white;
+}
+
+.news-content .section-hot h2 {
+    background-color: rgb(38, 124, 95);
+}
+
+.news-content .section-hot li:hover {
+    background-color: rgb(38, 124, 95);
+}
+
+.news-content .section-news .footer {
+    background-color: white;
+}
+
+.news-content .section-hot .footer {
+    color: rgb(38, 124, 95);
+}
+
+.news-content .section-sport h2 {
+    background-color: darkolivegreen;
+}
+
+.news-content .section-sport li:hover {
+    background-color: darkolivegreen;
+}
+
+.news-content .section-sport .footer {
+    color: darkolivegreen;
+}
